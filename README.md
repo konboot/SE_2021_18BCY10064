@@ -39,6 +39,6 @@ Chess Game
 
 ![screen-capture (3)](https://user-images.githubusercontent.com/53315283/137045476-0a4fab2f-ad21-440c-a295-fe79110cb45d.gif)
 
-#### *EXTRA: I have used two extra images of Pawn.
+#### EXTRA: I have used two extra images.
 ![bp](https://user-images.githubusercontent.com/53315283/137047692-1b2775ae-97f5-4bd5-ae00-083d7aae5f41.png)
 ![wp](https://user-images.githubusercontent.com/53315283/137047693-ef5bbc4e-51e7-48d8-8083-b7da9a7ed722.png)

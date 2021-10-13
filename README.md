@@ -22,7 +22,7 @@ Chess Game
 <br> Pawn: In one move, it moves 1 block straight in any direction (L, R, F, B)
 <br> The opponent player’s character dies, i.e removed from the grid when a player’s character is moved to the opponent character’s position
 
-
+![screen-capture (4)](https://user-images.githubusercontent.com/53315283/137046888-a70da606-b8ab-4bf3-9495-8ad7c45545a6.gif)
 
 
 ## LEVEL-2
